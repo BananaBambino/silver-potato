@@ -5861,12 +5861,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/supernintendoemulator.com\/puzzle\/tetris-dr-mario"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
+                         "value":"https:\/\/www.retrogames.cc\/embed\/17398-super-bomberman-usa.html"
                         }]
                 }, 
                 {
@@ -5875,7 +5870,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/supernintendoemulator.com\/platform-game\/super-mario-world-3"
+                         "value":"https:\/\/www.retrogames.cc\/embed\/17398-super-bomberman-usa.html"
                         }, 
                         {
                          "name":"openWebsitePolicy",
